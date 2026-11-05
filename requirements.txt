@@ -1,0 +1,7 @@
+streamlit>=1.40
+torch
+timm
+librosa
+soundfile
+plotly
+numpy
